@@ -1,0 +1,21 @@
+.history {
+    text-align: end;
+    padding-right: 5%;
+    display: co;
+}
+
+.container {
+    display: flex;
+}
+
+.space {
+    flex: 1;
+}
+
+.content {
+    font-size: 15px;
+}
+
+li {
+    list-style-type: none;
+}
