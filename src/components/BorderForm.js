@@ -31,7 +31,7 @@ function BoredForm() {
         <div className='page'>
             <div>
             <button onClick={getActivity}>Find Activity</button>
-            <button onClick={clearActivityHandler}>Clear</button>
+            <button onClick={clearActivityHandler}>Clear Activities</button>
             <button onClick={() => setShowHistory(!showHistory)}>Show/Hide History</button>
             </div>
             <br></br>
